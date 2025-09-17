@@ -71,7 +71,11 @@ table caption {
   outline: 2px solid rgba(34, 139, 34, 0.25);
   cursor: pointer;
 }
-p a {
+.source-link {
+  text-align: center;
+  margin-top: 20px;
+}
+.source-link a {
   color: #ffffff;
   text-decoration: underline;
   font-weight: 600;
